@@ -2,7 +2,7 @@
 
 This repository contains the deliverables for the Activity Ranking API feature test, as outlined in the provided QA Lead Test document. My approach focuses on clarity, comprehensive coverage, and realistic testing strategies, encompassing manual testing, Behavior-Driven Development (BDD) with Gherkin, and automated end-to-end tests.
 
-## Overview of My Approach
+### Overview of My Approach
 
 As a Senior Software Quality Assurance Engineer, I've designed these tests to ensure the "Activity Ranking API - City-Based Weather Forecast Integration with Search Suggestions" feature meets its functional and non-functional requirements. My strategy involved:
 
